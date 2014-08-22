@@ -1,5 +1,5 @@
 # outrosAt(h)os_02-caracteres.py
-# 1. instruções:
+# 1. modo de usar:
 # 2.    tecle(cmd+a)
 # 3.    tecle(cmd+c)
 # 4.    abra(drawbot):
